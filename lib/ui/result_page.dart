@@ -55,6 +55,7 @@ class ResultPage extends StatelessWidget {
               ),
             ),
           ),
+          //onTap button
           GestureDetector(
             onTap: (){
               Navigator.pop(context);
